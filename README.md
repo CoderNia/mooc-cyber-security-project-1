@@ -1,5 +1,5 @@
 # mooc-cyber-security-project-1
-mooc cyber security project 1
+
 
 broken access control (can download other's image) (by address)
 
